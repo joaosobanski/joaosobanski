@@ -1,6 +1,5 @@
 ## Olá sou o João Vitor Sobanski, entusiasta de conteúdo de web3, programação e tecnologia! 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosobanski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosobanski&layout=compact&langs_count=7&theme=dracula"/>
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=joaosobanski&theme=tokyonight&hide_border=true" />
