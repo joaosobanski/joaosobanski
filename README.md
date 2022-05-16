@@ -16,6 +16,3 @@
   <img align="center" alt="joao-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
 
-  <div>
-    ![Snake animation](https://github.com/joaosobanski/joaosobanski/blob/output/github-contribution-grid-snake.svg)
-  </div>
